@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @axieccolo1110
 - 👀 I’m interested in GenAI, Software Engineering, Agile Development
 - 🌱 I’m currently learning Python
-- 📫 How to reach me alexander.eckert@mailbox.org
+- 📫 How to reach me ...
 - 😄 Pronouns: he/him
 
 <!---
